@@ -33,3 +33,11 @@ function generateFibonacci(n) {
     return evenSumArr + 2;
   }
   
+
+/*
+
+Alternateive solution idea 💡 
+
+- Every third number is even in Fibonacci series
+
+*/
