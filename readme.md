@@ -1,4 +1,4 @@
-This repo created to track my Project Euler Progress. 
+This repo is created to track my Project Euler progress. 
 
 I would be solving all the problems in Javascript (Node.js) and Python (Jupyter Notebooks) and updating the same here.
 
